@@ -13,12 +13,14 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-1.png">
 </p>
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/Capture.JPG?raw=true)
 
 ### การระบายสีด้วย HatchBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
  <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-2.png">
 </p>
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab701.JPG?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void Form1_Paint(object sender, PaintEventArgs e)```
@@ -26,6 +28,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-3.png">
 </p>
 **หมายเหตุ** ชื่อรูปในบรรทัดที่ 22 ให้เปลี่ยนเป็นที่ตั้งจริงของรูปที่นักศึกษาใช้
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab702.JPG?raw=true)
 
 ### การระบายสีด้วย TextureBrush
 * ให้วางคอนโทรล Panel จำนวน 2 ตัวลงบน Form โดยมีชื่อว่า panel1 และ panel2 ตามลำดับ
@@ -33,6 +36,8 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-4.png">
 </p>
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab703.JPG?raw=true)
+
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-5.png">
@@ -42,6 +47,7 @@
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab704.JPG?raw=true)
 
 ### การระบายสีด้วย Path Gradient Brush
 
@@ -57,10 +63,11 @@
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
-
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab704.JPG?raw=true)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+![](https://github.com/settapong123/LAB-11/blob/master/imgs/lab705.JPG?raw=true)
